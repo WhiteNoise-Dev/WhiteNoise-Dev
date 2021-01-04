@@ -1,7 +1,14 @@
-# Hi there 👋
+### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&show_icons=false)
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&count_private=true&include_all_commits=false&show_icons=true&hide_rank=true) | GPG Main Key: [0xAD4512FCE0DC0264](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc)  <br/> GPG Commit Sign: [0x89CEC8F3A5AA7BFE](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc) | 
+|-|-|
 
+<!--
+- GPG Main Key: [0xAD4512FCE0DC0264](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc)
+- GPG Commit Sign: [0x89CEC8F3A5AA7BFE](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&count_private=true&include_all_commits=false&show_icons=true&hide_rank=true)
+-->
 
 <!--
 **WhiteNoise-Dev/WhiteNoise-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
