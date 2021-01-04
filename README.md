@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- GPG Main Key: [AD4512FCE0DC0264](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/whitenoise.dev_AD4512FCE0DC0264.asc)
+- GPG Main Key: [AD4512FCE0DC0264](www.whitenoise.dev/whitenoise.dev_AD4512FCE0DC0264.asc)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&count_private=true&include_all_commits=false&show_icons=true&hide_rank=true)
