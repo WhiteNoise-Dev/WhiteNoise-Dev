@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - GPG Main Key: [0xAD4512FCE0DC0264](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc)
-- GPG Commit Signature: [0x89CEC8F3A5AA7BFE](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc)
+- GPG Signature Subkey: [0x89CEC8F3A5AA7BFE](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&count_private=true&include_all_commits=false&show_icons=true&hide_rank=true)
 
