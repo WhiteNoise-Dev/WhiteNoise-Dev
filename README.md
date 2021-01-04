@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&show_icons=true)
+
 
 <!--
 **WhiteNoise-Dev/WhiteNoise-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
