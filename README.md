@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔐 GPG Main Key: [AD4512FCE0DC0264](https://www.whitenoise.dev/whitenoise.dev_AD4512FCE0DC0264.asc)
-- Donate with Paypal: [@whitenoisedev](https://paypal.me/whitenoisedev)
+- 🔐 GPG Main Key: [0xAD4512FCE0DC0264](https://www.whitenoise.dev/whitenoise.dev_AD4512FCE0DC0264.asc)
+- Donate with Paypal: [@whitenoise-dev](https://paypal.me/whitenoise-dev)
 
-
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&count_private=true&include_all_commits=false&show_icons=true&hide_rank=true)
+-->
 
 <!--
 - GPG Signature Subkey: [0x89CEC8F3A5AA7BFE](https://raw.githubusercontent.com/WhiteNoise-Dev/WhiteNoise-Dev/master/0xAD4512FCE0DC0264_pubkey.asc)
