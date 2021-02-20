@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔐 GPG Main Key: [0xAD4512FCE0DC0264](https://www.whitenoise.dev/whitenoise.dev_AD4512FCE0DC0264.asc)
-- Donate with Paypal: [@whitenoise-dev](https://paypal.me/whitenoise-dev)
+- Donate with Paypal: [@wndev](https://paypal.me/wndev)
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteNoise-Dev&count_private=true&include_all_commits=false&show_icons=true&hide_rank=true)
