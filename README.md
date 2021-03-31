@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔐 GPG Main Key: [0xAD4512FCE0DC0264](https://www.whitenoise.dev/whitenoisedev_AD4512FCE0DC0264.asc)
+- 🔐 GPG Main Key: [0xAD4512FCE0DC0264](https://whitenoise.dev/whitenoisedev_AD4512FCE0DC0264.asc)
 - Donate with Paypal: [@wndev](https://paypal.me/wndev)
 
 <!--
